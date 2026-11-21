@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Srushti Khobragade 👋
 
-<!--
-**srushti1605/srushti1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Computer Science & Medical Engineering
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst | Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in using data to solve real-world problems and support better decision-making.
+
+### Currently Learning
+- SQL
+- Python
+- Microsoft Excel
+- Power BI
+- Data Analytics
+
+### Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Healthcare Analytics
+- Data Visualization
+
+### Connect With Me
+- [LinkedIn](www.linkedin.com/in/
+srushti-khobragade-23a334348
+)
